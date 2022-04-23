@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
-import com.example.motivation2.R
 import com.example.motivation2.databinding.ActivityUserBinding
 import com.example.motivation2.ui.infra.MotivationConstants
 import com.example.motivation2.ui.infra.SecurityPreferences
